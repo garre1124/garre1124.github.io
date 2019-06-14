@@ -1,0 +1,1 @@
+var myData={designer:{name:'吴家威',phone:'13672845001',tag:["#2年工作经验 #UI设计师 #平面设计"],bg:'#1e2025'},gallery:[{src:"myworks/(2).jpg",w:1079,h:1079},{src:"myworks/(1).jpg",w:960,h:1280},{src:"myworks/(3).jpg",w:1920,h:1080},]}
